@@ -273,9 +273,12 @@ h2.page-heading {
 
     #front-page-content {
         color: white;
-        max-width: calc(800px - (30px * 2));
+        max-width: -webkit-calc(#{$content-width} - (#{$spacing-unit} * 2));
+        max-width:         calc(#{$content-width} - (#{$spacing-unit} * 2));
         margin-right: auto;
         margin-left: auto;
+        padding-right: $spacing-unit;
+        padding-left: $spacing-unit;
 
         .site-nav .page-link {
             color: #fcd6aa;
