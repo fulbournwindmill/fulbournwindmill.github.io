@@ -162,7 +162,12 @@
     }
 }
 
-
+h2.page-heading {
+    font-family: $heading-font-family;
+    font-weight: 700;
+    font-size: 36px;
+    color: #363727;
+}
 
 /**
  * Page content
@@ -183,9 +188,11 @@
         margin-bottom: $spacing-unit;
         clear: both;
 
-        > h2 {
+        > h3 {
             line-height: normal;
             margin-bottom: 0px;
+            font-family: $heading-font-family;
+            font-weight: 500;
         }
 
         > img {
@@ -254,4 +261,32 @@
             font-size: 18px;
         }
     }
+}
+
+#front-page {
+    background: url("/assets/img/mill-in-the-evening.jpg") no-repeat fixed;
+    -webkit-background-size: cover;
+   	-moz-background-size: cover;
+   	-o-background-size: cover;
+   	background-size: cover;
+    min-height: 800px;
+
+    #front-page-content {
+        color: white;
+        max-width: calc(800px - (30px * 2));
+        margin-right: auto;
+        margin-left: auto;
+
+        .site-nav .page-link {
+            color: #fcd6aa;
+        }
+
+        h1 {
+            font-family: "Poppins";
+            font-weight: 700;
+            font-size: 70px;
+            padding-top: 100px;
+        }
+    }
+
 }

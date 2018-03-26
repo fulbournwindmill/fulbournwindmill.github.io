@@ -1,19 +1,19 @@
 ---
-layout: default
+layout: front-page
 title: All about the windmill in Fulbourn, Cambridgeshire, UK
 ---
 
 <div class="home">
 
-  <h1 class="page-heading">Posts</h1>
+  <h2 class="page-heading">News</h2>
 
   <ul class="post-list">
     {% for post in site.posts %}
       <li class="post">
         <img width="150" height="150" src="{{ post.image }}" class="post-thumbnail">
-        <h2>
+        <h3>
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
+        </h3>
         <div class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</div>
         <div class="post-content">
           {{ post.content | split:'<!--break-->' | first }}

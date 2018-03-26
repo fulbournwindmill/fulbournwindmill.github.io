@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+
+  {% include head.html %}
+
+  <body>
+
+    <div id="front-page">
+      <div id="front-page-content">
+        <div id="front-page-nav">
+
+          {% include nav.html %}
+
+        </div>
+
+        <h1>Fulbourn Windmill</h1>
+        <div>Bringing the mill back to life</div>
+
+      </div>
+    </div>
+
+    <div class="page-content">
+      <div class="wrapper">
+        {{ content }}
+      </div>
+    </div>
+
+    {% include footer.html %}
+
+  </body>
+
+</html>

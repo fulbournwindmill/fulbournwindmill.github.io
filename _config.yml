@@ -5,7 +5,7 @@ description: >
   Cambridgeshire, UK
 
 baseurl: "" # the subpath of your site, e.g. /blog
-twitter_username: fulbournwindmill
+twitter_username: fulbournmill
 # github_username:  jekyll
 
 # Build settings
