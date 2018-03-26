@@ -9,7 +9,7 @@ permalink: /2015/07/july-working-party/
 image: /wp-content/uploads/2015/07/2015-07-04-10.29.06.jpg
 ---
 Quite a bit has been done since my last working party report. This month, work concentrated on preparing the second whip to make it ready to join its partner.
-
+<!--break-->
 <p class="p1">
   <span class="s1"><a href="http://www.fulbournwindmill.org.uk/wp-content/uploads/2015/07/2015-07-04-10.29.06.jpg"><img class="alignleft size-medium wp-image-205" src="http://www.fulbournwindmill.org.uk/wp-content/uploads/2015/07/2015-07-04-10.29.06-300x200.jpg" alt="2015-07-04 10.29.06" width="300" height="200" srcset="http://www.fulbournwindmill.org.uk/wp-content/uploads/2015/07/2015-07-04-10.29.06-300x200.jpg 300w, http://www.fulbournwindmill.org.uk/wp-content/uploads/2015/07/2015-07-04-10.29.06-1024x682.jpg 1024w, http://www.fulbournwindmill.org.uk/wp-content/uploads/2015/07/2015-07-04-10.29.06.jpg 1280w" sizes="(max-width: 300px) 100vw, 300px" /></a>Paul has prepared (and repaired) the wood of the whip so the next job was to sanding off the resin where it had been used to fill holes. </span>
 </p>

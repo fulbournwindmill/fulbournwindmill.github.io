@@ -9,7 +9,7 @@ permalink: /2014/04/working-party-5th-april/
 image: /wp-content/uploads/2014/04/Fulbourn-Mill-2014-04-056.jpg
 ---
 A lot has happened since I was last able to get over to the windmill.
-
+<!--break-->
 <div id="attachment_131" style="max-width: 310px" class="wp-caption alignleft">
   <a href="http://www.fulbournwindmill.org.uk/wp-content/uploads/2014/04/Fulbourn-Mill-2014-04-051.jpg"><img class="size-medium wp-image-131" alt="The first sail temporarily attached." src="http://www.fulbournwindmill.org.uk/wp-content/uploads/2014/04/Fulbourn-Mill-2014-04-051-300x200.jpg" width="300" height="200" srcset="http://www.fulbournwindmill.org.uk/wp-content/uploads/2014/04/Fulbourn-Mill-2014-04-051-300x200.jpg 300w, http://www.fulbournwindmill.org.uk/wp-content/uploads/2014/04/Fulbourn-Mill-2014-04-051-1024x682.jpg 1024w" sizes="(max-width: 300px) 100vw, 300px" /></a>
   

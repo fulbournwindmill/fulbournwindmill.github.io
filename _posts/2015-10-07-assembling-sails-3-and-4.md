@@ -9,7 +9,7 @@ permalink: /2015/10/assembling-sails-3-and-4/
 image: /wp-content/uploads/2015/10/IMG_0385.jpg
 ---
 I&#8217;m afraid this description of our September working party is a bit late!
-
+<!--break-->
 <div id="attachment_279" style="max-width: 310px" class="wp-caption alignleft">
   <a href="http://www.fulbournwindmill.org.uk/wp-content/uploads/2015/10/IMG_0359.jpg"><img class="wp-image-279 size-medium" src="http://www.fulbournwindmill.org.uk/wp-content/uploads/2015/10/IMG_0359-300x169.jpg" alt="Sail 3 assembled" width="300" height="169" srcset="http://www.fulbournwindmill.org.uk/wp-content/uploads/2015/10/IMG_0359-300x170.jpg 300w, http://www.fulbournwindmill.org.uk/wp-content/uploads/2015/10/IMG_0359-1024x575.jpg 1024w, http://www.fulbournwindmill.org.uk/wp-content/uploads/2015/10/IMG_0359-70x40.jpg 70w" sizes="(max-width: 300px) 100vw, 300px" /></a>
   

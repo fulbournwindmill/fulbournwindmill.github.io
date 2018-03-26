@@ -9,7 +9,7 @@ permalink: /2013/11/working-party-2nd-nov-2013/
 image: /wp-content/uploads/2013/11/IMG_5653.jpg
 ---
 Some photos of the working party on the first Saturday of December.
-
+<!--break-->
 <div id='gallery-1' class='gallery galleryid-53 gallery-columns-3 gallery-size-thumbnail'>
   <dl class='gallery-item'>
     <dt class='gallery-icon landscape'>

@@ -3,3 +3,10 @@ name: Fulbourn Windmill
 description: >
   All about the windmill in Fulbourn,
   Cambridgeshire, UK
+
+baseurl: "" # the subpath of your site, e.g. /blog
+twitter_username: fulbournwindmill
+# github_username:  jekyll
+
+# Build settings
+markdown: kramdown

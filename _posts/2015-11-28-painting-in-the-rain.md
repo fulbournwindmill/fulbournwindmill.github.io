@@ -8,6 +8,8 @@ guid: http://www.fulbournwindmill.org.uk/?p=306
 permalink: /2015/11/painting-in-the-rain/
 image: /wp-content/uploads/2015/11/2015-11-07-11.03.12.jpg
 ---
+This month, the weather wasn&#8217;t so good and we didn&#8217;t get so far. But there&#8217;s always painting to be done!<!--break-->
+
 <div id="attachment_310" style="max-width: 310px" class="wp-caption alignleft">
   <a href="http://www.fulbournwindmill.org.uk/wp-content/uploads/2015/11/2015-11-07-11.03.12.jpg"><img class="size-medium wp-image-310" src="http://www.fulbournwindmill.org.uk/wp-content/uploads/2015/11/2015-11-07-11.03.12-300x200.jpg" alt="Scott painting in the rain" width="300" height="200" srcset="http://www.fulbournwindmill.org.uk/wp-content/uploads/2015/11/2015-11-07-11.03.12-300x200.jpg 300w, http://www.fulbournwindmill.org.uk/wp-content/uploads/2015/11/2015-11-07-11.03.12-1024x683.jpg 1024w" sizes="(max-width: 300px) 100vw, 300px" /></a>
   
@@ -16,7 +18,6 @@ image: /wp-content/uploads/2015/11/2015-11-07-11.03.12.jpg
   </p>
 </div>
 
-This month, the weather wasn&#8217;t so good and we didn&#8217;t get so far. But there&#8217;s always painting to be done!
 
 The second set of sails is almost ready and you can see from the photos how graceful the curve of the sail is. All that work to get each strut at a slightly different angle has paid off! You can also see that several of the shutters are on the sail so that we can check that they all fit and can be opened and closed.
 

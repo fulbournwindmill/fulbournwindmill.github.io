@@ -9,7 +9,7 @@ permalink: /2014/06/june-working-party/
 image: /wp-content/uploads/2014/06/Working-Party-2014-06-0713.jpg
 ---
 At one point, with thunder, lightning and heavy rain, we thought we wouldn&#8217;t get much done, but fortunately brewing the kettle and making tea did the trick and the weather cleared up. There was a sense of real achievement today as we managed to add both clamps and both sails. For the first time, we could see the whole 64ft assembly. There&#8217;s still lots to do, but hopefully in July or August we&#8217;ll be ready to get the crane in to lift off the old sail and lift on our new one.
-
+<!--break-->
 <div id='gallery-4' class='gallery galleryid-142 gallery-columns-3 gallery-size-thumbnail'>
   <dl class='gallery-item'>
     <dt class='gallery-icon portrait'>

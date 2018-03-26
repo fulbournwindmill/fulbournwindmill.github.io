@@ -9,7 +9,7 @@ permalink: /2015/02/a-cold-february-working-party/
 image: /wp-content/uploads/2015/02/Windmill-February-2015-02.jpg
 ---
 Today&#8217;s working party was mostly based indoors due to the cold! The main job was to attach the worm onto the fan shaft so that it can be connected to the upright shaft. The fan stocks will then fit onto this fan shaft and the fan blades will fit onto the stocks.
-
+<!--break-->
 The fan blades are all made up and oiled and just need painting. The second set of sails are about 25% done, one of the main remaining jobs will be to splice in a new end section for one of the sail whips which broken right off.
 
 <div id='gallery-5' class='gallery galleryid-182 gallery-columns-3 gallery-size-thumbnail'>

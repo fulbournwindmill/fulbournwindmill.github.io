@@ -8,7 +8,7 @@ guid: http://www.fulbournwindmill.org.uk/?p=325
 permalink: /2016/02/time-to-tidy-up/
 image: /wp-content/uploads/2016/02/IMG_1949-e1455385720580.jpg
 ---
-This was the first working party of 2016. Since last time, all the gear for the fantail had been lifted up into position and the tent which had housed the sails as they were built was taken down ready for Paul to use on his next mill.
+This was the first working party of 2016. Since last time, all the gear for the fantail had been lifted up into position and the tent which had housed the sails as they were built was taken down ready for Paul to use on his next mill.  <!--break-->
 
 It was again very windy on the day of the working party and up on the first and second floors you could feel and hear the wind blowing through the gaps in the weatherboarding. We could see exactly why it was such a good place to build a mill.
 

@@ -9,7 +9,7 @@ permalink: /2015/07/arial-photo/
 image: /wp-content/uploads/2015/07/arial-photo.jpg
 ---
 Neil, one of our volunteer, was able to use a &#8220;drone&#8221; to take this stunning photo of the windmill. Thanks Neil!!
-
+<!--break-->
 <div id="attachment_210" style="max-width: 1034px" class="wp-caption alignleft">
   <a href="http://www.fulbournwindmill.org.uk/wp-content/uploads/2015/07/arial-photo.jpg"><img class="size-large wp-image-210" src="http://www.fulbournwindmill.org.uk/wp-content/uploads/2015/07/arial-photo-1024x553.jpg" alt="DCIM103GOPRO" width="1024" height="553" srcset="http://www.fulbournwindmill.org.uk/wp-content/uploads/2015/07/arial-photo-1024x553.jpg 1024w, http://www.fulbournwindmill.org.uk/wp-content/uploads/2015/07/arial-photo-300x162.jpg 300w" sizes="(max-width: 1024px) 100vw, 1024px" /></a>
   

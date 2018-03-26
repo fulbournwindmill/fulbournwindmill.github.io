@@ -8,6 +8,9 @@ guid: http://www.fulbournwindmill.org.uk/?p=291
 permalink: /2015/10/fanstage-setback/
 image: /wp-content/uploads/2015/10/2015-10-03-10.35.39-21.jpg
 ---
+
+This month we were lucky enough to have three new volunteers: Tony, Richard and Neil. Thanks so much guys for coming along and helping! We all enjoyed being side-tracked by Tony&#8217;s new guide dog puppy. (If you fancy helping, [just let us know](http://www.fulbournwindmill.org.uk/volunteers/).)
+<!--break-->
 <div id="attachment_299" style="max-width: 310px" class="wp-caption alignleft">
   <a href="http://www.fulbournwindmill.org.uk/wp-content/uploads/2015/10/2015-10-03-10.01.57.jpg"><img class="size-medium wp-image-299" src="http://www.fulbournwindmill.org.uk/wp-content/uploads/2015/10/2015-10-03-10.01.57-300x200.jpg" alt="Welcome to our new volunteers" width="300" height="200" srcset="http://www.fulbournwindmill.org.uk/wp-content/uploads/2015/10/2015-10-03-10.01.57-300x200.jpg 300w, http://www.fulbournwindmill.org.uk/wp-content/uploads/2015/10/2015-10-03-10.01.57-1024x683.jpg 1024w" sizes="(max-width: 300px) 100vw, 300px" /></a>
   
@@ -15,8 +18,6 @@ image: /wp-content/uploads/2015/10/2015-10-03-10.35.39-21.jpg
     Welcome to our new volunteers
   </p>
 </div>
-
-This month we were lucky enough to have three new volunteers: Tony, Richard and Neil. Thanks so much guys for coming along and helping! We all enjoyed being side-tracked by Tony&#8217;s new guide dog puppy. (If you fancy helping, [just let us know](http://www.fulbournwindmill.org.uk/volunteers/).)
 
 <div id="attachment_293" style="max-width: 310px" class="wp-caption alignleft">
   <a href="http://www.fulbournwindmill.org.uk/wp-content/uploads/2015/10/2015-10-03-10.51.16.jpg"><img class="size-medium wp-image-293" src="http://www.fulbournwindmill.org.uk/wp-content/uploads/2015/10/2015-10-03-10.51.16-300x200.jpg" alt="Several places where you can see the rot" width="300" height="200" srcset="http://www.fulbournwindmill.org.uk/wp-content/uploads/2015/10/2015-10-03-10.51.16-300x200.jpg 300w, http://www.fulbournwindmill.org.uk/wp-content/uploads/2015/10/2015-10-03-10.51.16-1024x683.jpg 1024w" sizes="(max-width: 300px) 100vw, 300px" /></a>

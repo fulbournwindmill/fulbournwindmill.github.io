@@ -9,7 +9,7 @@ permalink: /2015/08/august-working-party/
 image: /wp-content/uploads/2015/08/2015-08-Windmill-working-party-1.jpg
 ---
 The second set of sails is coming on well. Paul has been fitting the stays into the angled holes. Each hole is at a slightly different angle.
-
+<!--break-->
 [<img class="alignnone size-thumbnail wp-image-256" src="http://www.fulbournwindmill.org.uk/wp-content/uploads/2015/08/2015-08-Windmill-working-party-6-150x150.jpg" alt="2015-08 Windmill working party - 6" width="150" height="150" />](http://www.fulbournwindmill.org.uk/wp-content/uploads/2015/08/2015-08-Windmill-working-party-6.jpg) [<img class="alignnone size-thumbnail wp-image-257" src="http://www.fulbournwindmill.org.uk/wp-content/uploads/2015/08/2015-08-Windmill-working-party-4-150x150.jpg" alt="2015-08 Windmill working party - 4" width="150" height="150" />](http://www.fulbournwindmill.org.uk/wp-content/uploads/2015/08/2015-08-Windmill-working-party-4.jpg) [<img class="alignnone size-thumbnail wp-image-258" src="http://www.fulbournwindmill.org.uk/wp-content/uploads/2015/08/2015-08-Windmill-working-party-5-150x150.jpg" alt="2015-08 Windmill working party - 5" width="150" height="150" />](http://www.fulbournwindmill.org.uk/wp-content/uploads/2015/08/2015-08-Windmill-working-party-5.jpg)
 
 Meanwhile, William and Ian have been painting the fan shaft and the rings that will keep the fly stocks in place.

@@ -8,11 +8,8 @@ guid: http://www.fulbournwindmill.org.uk/?p=93
 permalink: /2014/02/working-party/
 image: /wp-content/uploads/2014/02/Fulbourn-Windmill-Working-Party-2014-02-01-14.jpg
 ---
+<!--break-->
 Photos from today, words to follow:
-
-		
-		  
-
 
 <div id='gallery-2' class='gallery galleryid-93 gallery-columns-3 gallery-size-thumbnail'>
   <dl class='gallery-item'>

@@ -1,0 +1,30 @@
+---
+layout: default
+title: All about the windmill in Fulbourn, Cambridgeshire, UK
+---
+
+<div class="home">
+
+  <h1 class="page-heading">Posts</h1>
+
+  <ul class="post-list">
+    {% for post in site.posts %}
+      <li class="post">
+        <img width="150" height="150" src="{{ post.image }}" class="post-thumbnail">
+        <h2>
+          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+        </h2>
+        <div class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</div>
+        <div class="post-content">
+          {{ post.content | split:'<!--break-->' | first }}
+          {% if post.content contains '<!--break-->' %}
+          <a href="{{ post.url }}">read more</a>
+          {% endif %}
+        </div>
+      </li>
+    {% endfor %}
+  </ul>
+
+  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+
+</div>
