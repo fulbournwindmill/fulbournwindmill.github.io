@@ -1,0 +1,13 @@
+---
+id: 40
+title: Owners and Millers
+date: 2013-11-10T20:13:09+00:00
+author: Denis (Admin)
+layout: page
+guid: http://www.fulbournwindmill.org.uk/?page_id=40
+---
+<span style="font-family: Arial, Helvetica, sans-serif;">The ownership of the Windmill remained in the hands of the Chaplin family for 112 years. In 1851 it belonged to the brothers John Hancock Chaplin and Joseph Chaplin who lived at Ludlow House; in 1871 to Joseph Chaplin. By 1883 he had brought his sons into the family business. In 1896 Howard Foster Chaplin owned the mill which he advertised to let in 1898 but no one was interested. The Chaplins retained ownership until 1920 when it was sold to C.J.Mapey of Cherryhinton Granaries. During his ownership the Windmill became unworkable. Among the later owners of the derelict mill a Mr Smith demolished the miller&#8217;s cottage near the road and built a bungalow on the southern boundary of the site. </span><span style="font-family: Arial, Helvetica, sans-serif;">Dr F.L.Wollaston bought the property in 1970. The first serious discussions about the restoration of the Windmill were held during his ownership. In 1978 the property was bought by Mr and Mrs P.F.Mardon under whom the restoration has prospered. In 2006 the ownership changed to Dr. I. and Mrs P. Harrison.</span>
+
+## <span style="font-family: Arial, Helvetica, sans-serif;"><b><span style="color: #000066;">Millers</span></b> </span>
+
+<span style="font-family: Arial, Helvetica, sans-serif;">It has not been possible to construct a complete list of millers employed by the owners of the Windmill, but the names of some are known. In 1861 Shadrach Serjeant was the &#8216;journeyman miller&#8217;, aged 69, helped by William Chambers, &#8216;miller&#8217;s servant,&#8217; aged 19. Both lived in the cottage at the mill. Ten years later Charles Watson worked the mill. Graffiti in the miller&#8217;s desk record another name, &#8216;John Nunn Come to Work this Mill November 1st 1889&#8217;. More is known about two later millers. Seth Pettit came to Fulbourn Windmill in 1894 from the watermill at Grantchester. He worked the mill until he died, aged 74, in 1924. The other miller of whom something is known was Ernest G. Reed appointed by C. J, Mapey in 1930. He was the last to work the Windmill, leaving in 1937 after the storm damage of the previous year.. Between 1922 and 1930 he had been the engineer at Todd&#8217;s Mill, a steam mill at Leith in Scotland, where his father was manager. E C Reed kept a notebook in which he recorded his transactions at the windmill between 1930 and 1933. It is an invaluable document recording the last stage in the economic decline of the mill.</span>
