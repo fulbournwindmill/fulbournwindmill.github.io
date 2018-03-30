@@ -5,8 +5,10 @@ description: >
   Cambridgeshire, UK
 
 baseurl: "" # the subpath of your site, e.g. /blog
-twitter_username: fulbournmill
-# github_username:  jekyll
+twitter_name: fulbournmill
+instagram_name: fulbournwindmill
+facebook_name: fulbournwindmill
+email: fulbournwindmill@gmail.com
 
 # Build settings
 markdown: kramdown

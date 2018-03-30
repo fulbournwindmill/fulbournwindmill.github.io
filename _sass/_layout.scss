@@ -111,6 +111,16 @@
 .social-media-list {
     list-style: none;
     margin-left: 0;
+
+    li {
+        display: inline;
+    }
+
+    li:not(:last-child) {
+        padding-right: 10px;
+        border-right: 1px solid $heading-color;
+        margin-right: 10px;
+    }
 }
 
 .footer-col-wrapper {
@@ -168,7 +178,7 @@
    	-moz-background-size: cover;
    	-o-background-size: cover;
    	background-size: cover;
-    min-height: 800px;
+    min-height: 100vh;
 
     #front-page-content {
         color: white;
@@ -235,10 +245,6 @@ h2.page-heading {
             font-family: $heading-font-family;
             font-weight: 500;
         }
-
-        > img {
-            object-fit: cover;
-        }
     }
 }
 
@@ -256,6 +262,7 @@ h2.page-heading {
     float: left;
     margin-right: 20px;
     margin-bottom: 20px;
+    object-fit: cover;
 }
 
 
@@ -396,5 +403,23 @@ li.event {
 
     .event-content {
         color: $heading-color;
+    }
+}
+
+.page-navigation {
+    font-size: $small-font-size;
+    color: $grey-color;
+    clear: both;
+
+    .prev {
+        margin-right: 10px; // Just to make sure they don't run in to each other
+    }
+
+    .next {
+        float: right;
+    }
+
+    a {
+        color: $grey-color;
     }
 }
