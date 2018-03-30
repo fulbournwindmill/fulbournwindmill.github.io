@@ -300,6 +300,12 @@ h2.page-heading {
 
 }
 
+@media only screen and (max-width: 768px) {
+    /* For mobile phones: */
+    #front-page {
+        background: url("/assets/img/mill-in-the-evening-768x800.png") no-repeat fixed;
+    }
+}
 
 //Events list
 
