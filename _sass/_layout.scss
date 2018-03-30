@@ -162,11 +162,51 @@
     }
 }
 
+#front-page {
+    background: url("/assets/img/mill-in-the-evening.jpg") no-repeat fixed;
+    -webkit-background-size: cover;
+   	-moz-background-size: cover;
+   	-o-background-size: cover;
+   	background-size: cover;
+    min-height: 800px;
+
+    #front-page-content {
+        color: white;
+        max-width: -webkit-calc(#{$content-width} - (#{$spacing-unit} * 2));
+        max-width:         calc(#{$content-width} - (#{$spacing-unit} * 2));
+        margin-right: auto;
+        margin-left: auto;
+        padding-right: $spacing-unit;
+        padding-left: $spacing-unit;
+
+        .site-nav .page-link {
+            color: $front-page-link-color;
+            @include media-query($on-palm) {
+                color: $heading-color;
+            }
+        }
+
+        h1 {
+            font-family: $heading-font-family;
+            font-weight: 700;
+            font-size: 70px;
+            padding-top: 100px;
+            text-align: right;
+            line-height: 1.2;
+        }
+
+        div {
+            text-align: right;
+        }
+    }
+
+}
+
 h2.page-heading {
     font-family: $heading-font-family;
     font-weight: 700;
     font-size: 36px;
-    color: #363727;
+    color: $heading-color;
     clear: both;
 }
 
@@ -190,7 +230,7 @@ h2.page-heading {
         clear: both;
 
         > h3 {
-            line-height: normal;
+            line-height: 1;
             margin-bottom: 0px;
             font-family: $heading-font-family;
             font-weight: 500;
@@ -262,42 +302,6 @@ h2.page-heading {
             font-size: 18px;
         }
     }
-}
-
-#front-page {
-    background: url("/assets/img/mill-in-the-evening.jpg") no-repeat fixed;
-    -webkit-background-size: cover;
-   	-moz-background-size: cover;
-   	-o-background-size: cover;
-   	background-size: cover;
-    min-height: 800px;
-
-    #front-page-content {
-        color: white;
-        max-width: -webkit-calc(#{$content-width} - (#{$spacing-unit} * 2));
-        max-width:         calc(#{$content-width} - (#{$spacing-unit} * 2));
-        margin-right: auto;
-        margin-left: auto;
-        padding-right: $spacing-unit;
-        padding-left: $spacing-unit;
-
-        .site-nav .page-link {
-            color: #fcd6aa;
-        }
-
-        h1 {
-            font-family: "Poppins";
-            font-weight: 700;
-            font-size: 70px;
-            padding-top: 100px;
-            text-align: right;
-        }
-
-        div {
-            text-align: right;
-        }
-    }
-
 }
 
 @media only screen and (max-width: 768px) {
@@ -382,8 +386,15 @@ li.event {
     }
 
     .event-title h3 {
+        font-family: $heading-font-family;
         clear: none;
         margin: 0 !important;
         padding: 0;
+        font-weight: 600;
+        line-height: 1;
+    }
+
+    .event-content {
+        color: $heading-color;
     }
 }
