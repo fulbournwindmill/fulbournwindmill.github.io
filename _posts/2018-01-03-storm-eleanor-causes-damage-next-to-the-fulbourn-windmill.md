@@ -6,7 +6,7 @@ author: Denis (Admin)
 layout: post
 guid: http://www.fulbournwindmill.org.uk/?p=366
 permalink: /2018/01/storm-eleanor-causes-damage-next-to-the-fulbourn-windmill/
-image: /wp-content/uploads/2013/09/IMG_0739-125x125.jpg
+image: /wp-content/uploads/2013/09/IMG_0739-150x150.jpg
 ---
 Storm Eleanor battered Fulbourn on 2nd and 3rd January 2018. Luckily, though a lorry strap helping to hold the sails in place snapped, the main brake held and sails weren&#8217;t able to turn fully in the wind.
 

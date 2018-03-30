@@ -6,7 +6,7 @@ author: Denis (Admin)
 layout: post
 guid: http://www.fulbournwindmill.org.uk/?p=339
 permalink: /2016/05/national-mills-weekend-14th-and-15th-may/
-image: /wp-content/uploads/2014/10/IMG_1252-e1413230052992.jpg
+image: /wp-content/uploads/2014/10/IMG_1252-e1413230052992-150x150.jpg
 ---
 It&#8217;s National Mills Weekend on 14th and 15th May. Windmills all over the country will be open, for more details see [National Mills Weekend](http://www.nationalmillsweekend.co.uk/). Fulbourn mill will be open on Saturday from 10am onwards. Do come and see round.  <!--break-->
 

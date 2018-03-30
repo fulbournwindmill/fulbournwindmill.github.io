@@ -6,7 +6,7 @@ author: Denis (Admin)
 layout: post
 guid: http://www.fulbournwindmill.org.uk/?p=344
 permalink: /2016/07/the-sails-are-up-and-the-fan-tail-is-complete/
-image: /wp-content/uploads/2016/07/IMG_2792.jpg
+image: /wp-content/uploads/2016/07/IMG_2792-150x150.jpg
 ---
 <p class="p1">
   <span class="s1">A major milestone in the restoration of the mill has been reached with the completion of the new fantail.  With many thanks to all the hard work by Paul Kemp, our millwright, the mill is now looking much more like it did when it was fully working!  <!--break-->But more importantly, on completion of the fantail, we were able to use the wind to turn the cap.  It may have only been a few inches, but this is the first time the cap has turned under its own wind since 1937!!   We now have some major work to complete on the curb on which the cap sits before we can let the cap turn freely to wind, and this is programmed for next year.  In the meantime, we will spend the remainder of this year completing some minor works on the new sails, including fitting some shutters, and installing a new lightening conductor.</span>

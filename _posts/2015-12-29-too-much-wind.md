@@ -6,7 +6,7 @@ author: Denis (Admin)
 layout: post
 guid: http://www.fulbournwindmill.org.uk/?p=318
 permalink: /2015/12/too-much-wind/
-image: /wp-content/uploads/2015/12/IMG_6075.jpg
+image: /wp-content/uploads/2015/12/IMG_6075-150x150.jpg
 ---
 December&#8217;s working party was hampered ironically enough by too much wind. Our main aim was to lift some of the heavy gear back up to the top of the windmill, but this had to be done on the outside of the mill, we could winch it up inside as it was too big and there were too many obstructions. Unfortunately, storm &#8220;Desmond&#8221; meant that it was just too windy to do this safely.<!--break--><img class="alignleft size-medium wp-image-319" src="http://www.fulbournwindmill.org.uk/wp-content/uploads/2015/12/IMG_6075-300x200.jpg" alt="IMG_6075" width="300" height="200" srcset="http://www.fulbournwindmill.org.uk/wp-content/uploads/2015/12/IMG_6075-300x200.jpg 300w, http://www.fulbournwindmill.org.uk/wp-content/uploads/2015/12/IMG_6075-768x512.jpg 768w, http://www.fulbournwindmill.org.uk/wp-content/uploads/2015/12/IMG_6075-1024x683.jpg 1024w" sizes="(max-width: 300px) 100vw, 300px" />
 

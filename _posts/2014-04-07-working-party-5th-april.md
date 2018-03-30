@@ -6,7 +6,7 @@ author: DenisH
 layout: post
 guid: http://www.fulbournwindmill.org.uk/?p=125
 permalink: /2014/04/working-party-5th-april/
-image: /wp-content/uploads/2014/04/Fulbourn-Mill-2014-04-056.jpg
+image: /wp-content/uploads/2014/04/Fulbourn-Mill-2014-04-056-150x150.jpg
 ---
 A lot has happened since I was last able to get over to the windmill.
 <!--break-->

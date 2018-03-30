@@ -6,7 +6,7 @@ author: Denis (Admin)
 layout: post
 guid: http://www.fulbournwindmill.org.uk/?p=325
 permalink: /2016/02/time-to-tidy-up/
-image: /wp-content/uploads/2016/02/IMG_1949-e1455385720580.jpg
+image: /wp-content/uploads/2016/02/IMG_1949-e1455385720580-150x150.jpg
 ---
 This was the first working party of 2016. Since last time, all the gear for the fantail had been lifted up into position and the tent which had housed the sails as they were built was taken down ready for Paul to use on his next mill.  <!--break-->
 

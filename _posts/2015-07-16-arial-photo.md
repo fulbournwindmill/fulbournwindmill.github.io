@@ -6,7 +6,7 @@ author: Denis (Admin)
 layout: post
 guid: http://www.fulbournwindmill.org.uk/?p=209
 permalink: /2015/07/arial-photo/
-image: /wp-content/uploads/2015/07/arial-photo.jpg
+image: /wp-content/uploads/2015/07/arial-photo-150x150.jpg
 ---
 Neil, one of our volunteer, was able to use a &#8220;drone&#8221; to take this stunning photo of the windmill. Thanks Neil!!
 <!--break-->

@@ -6,7 +6,7 @@ author: Denis (Admin)
 layout: post
 guid: http://www.fulbournwindmill.org.uk/?p=182
 permalink: /2015/02/a-cold-february-working-party/
-image: /wp-content/uploads/2015/02/Windmill-February-2015-02.jpg
+image: /wp-content/uploads/2015/02/Windmill-February-2015-02-150x150.jpg
 ---
 Today&#8217;s working party was mostly based indoors due to the cold! The main job was to attach the worm onto the fan shaft so that it can be connected to the upright shaft. The fan stocks will then fit onto this fan shaft and the fan blades will fit onto the stocks.
 <!--break-->

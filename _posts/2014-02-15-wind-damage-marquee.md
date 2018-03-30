@@ -6,7 +6,7 @@ author: DenisH
 layout: post
 guid: http://www.fulbournwindmill.org.uk/?p=107
 permalink: /2014/02/wind-damage-marquee/
-image: /wp-content/uploads/2014/02/IMG_1615_2.jpg
+image: /wp-content/uploads/2014/02/IMG_1615_2-150x150.jpg
 ---
 Storm damage last night&#8230; The marquee is a write off!  Now we have no weather protection for the new sails whilst we work on them…
 

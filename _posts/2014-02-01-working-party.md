@@ -6,7 +6,7 @@ author: DenisH
 layout: post
 guid: http://www.fulbournwindmill.org.uk/?p=93
 permalink: /2014/02/working-party/
-image: /wp-content/uploads/2014/02/Fulbourn-Windmill-Working-Party-2014-02-01-14.jpg
+image: /wp-content/uploads/2014/02/Fulbourn-Windmill-Working-Party-2014-02-01-14-150x150.jpg
 ---
 <!--break-->
 Photos from today, words to follow:

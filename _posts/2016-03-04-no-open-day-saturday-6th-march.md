@@ -6,7 +6,7 @@ author: Denis (Admin)
 layout: post
 guid: http://www.fulbournwindmill.org.uk/?p=334
 permalink: /2016/03/no-open-day-saturday-6th-march/
-image: /wp-content/uploads/2016/03/IMG_0429.jpg
+image: /wp-content/uploads/2016/03/IMG_0429-150x150.jpg
 ---
 Unfortunately there won&#8217;t be an open day or working party on Saturday 6th March. We were really hoping to dismantle the second set of sails in preparation for a crane coming in to lift them into position, but unfortunately, the weather forecast for both tomorrow (Saturday) and Wednesday when we were hoping to lift them is pretty horrible.
 <!--break-->

@@ -6,7 +6,7 @@ author: Denis (Admin)
 layout: post
 guid: http://www.fulbournwindmill.org.uk/?p=200
 permalink: /2015/07/july-working-party/
-image: /wp-content/uploads/2015/07/2015-07-04-10.29.06.jpg
+image: /wp-content/uploads/2015/07/2015-07-04-10.29.06-150x150.jpg
 ---
 Quite a bit has been done since my last working party report. This month, work concentrated on preparing the second whip to make it ready to join its partner.
 <!--break-->

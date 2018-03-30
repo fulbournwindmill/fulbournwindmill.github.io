@@ -6,7 +6,7 @@ author: Denis (Admin)
 layout: post
 guid: http://www.fulbournwindmill.org.uk/?p=291
 permalink: /2015/10/fanstage-setback/
-image: /wp-content/uploads/2015/10/2015-10-03-10.35.39-21.jpg
+image: /wp-content/uploads/2015/10/2015-10-03-10.35.39-21-150x150.jpg
 ---
 
 This month we were lucky enough to have three new volunteers: Tony, Richard and Neil. Thanks so much guys for coming along and helping! We all enjoyed being side-tracked by Tony&#8217;s new guide dog puppy. (If you fancy helping, [just let us know](http://www.fulbournwindmill.org.uk/volunteers/).)

@@ -6,7 +6,7 @@ author: DenisH
 layout: post
 guid: http://www.fulbournwindmill.org.uk/?p=53
 permalink: /2013/11/working-party-2nd-nov-2013/
-image: /wp-content/uploads/2013/11/IMG_5653.jpg
+image: /wp-content/uploads/2013/11/IMG_5653-150x150.jpg
 ---
 Some photos of the working party on the first Saturday of December.
 <!--break-->

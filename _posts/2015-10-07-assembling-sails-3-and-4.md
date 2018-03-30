@@ -6,7 +6,7 @@ author: Denis (Admin)
 layout: post
 guid: http://www.fulbournwindmill.org.uk/?p=277
 permalink: /2015/10/assembling-sails-3-and-4/
-image: /wp-content/uploads/2015/10/IMG_0385.jpg
+image: /wp-content/uploads/2015/10/IMG_0385-150x150.jpg
 ---
 I&#8217;m afraid this description of our September working party is a bit late!
 <!--break-->

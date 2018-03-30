@@ -6,7 +6,7 @@ author: Denis (Admin)
 layout: post
 guid: http://www.fulbournwindmill.org.uk/?p=306
 permalink: /2015/11/painting-in-the-rain/
-image: /wp-content/uploads/2015/11/2015-11-07-11.03.12.jpg
+image: /wp-content/uploads/2015/11/2015-11-07-11.03.12-150x150.jpg
 ---
 This month, the weather wasn&#8217;t so good and we didn&#8217;t get so far. But there&#8217;s always painting to be done!<!--break-->
 

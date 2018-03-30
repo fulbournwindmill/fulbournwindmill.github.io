@@ -6,7 +6,7 @@ author: Denis (Admin)
 layout: post
 guid: http://www.fulbournwindmill.org.uk/?p=195
 permalink: /2015/03/850-grant-towards-the-new-fantail/
-image: /wp-content/uploads/2015/03/IMG_0449-e1427738319531.jpg
+image: /wp-content/uploads/2015/03/IMG_0449-e1427738319531-150x150.jpg
 ---
 As you can see from the photo taken on the Sail Day, our fantail is in need of quite a bit of tender, loving care and this money will help significantly.
 <!--break-->

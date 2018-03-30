@@ -6,7 +6,7 @@ author: DenisH
 layout: post
 guid: http://www.fulbournwindmill.org.uk/?p=19
 permalink: /2013/10/sunset-over-the-windmill/
-image: /wp-content/uploads/2013/10/fulbourn-windmill-with-moon1.jpg
+image: /wp-content/uploads/2013/10/fulbourn-windmill-with-moon1-150x150.jpg
 ---
 Driving home, we spotted the moon over the windmill as the sun was setting.
 <!--break-->

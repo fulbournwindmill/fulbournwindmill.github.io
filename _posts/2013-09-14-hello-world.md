@@ -6,7 +6,7 @@ author: DenisH
 layout: post
 guid: http://www.fulbournwindmill.org.uk/?p=1
 permalink: /2013/09/hello-world/
-image: /wp-content/uploads/2013/09/fulbourn-windmill-sail.jpg
+image: /wp-content/uploads/2013/09/fulbourn-windmill-sail-150x150.jpg
 ---
 Very much work in progress&#8211;like the mill itself
 <!--break-->

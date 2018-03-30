@@ -6,7 +6,7 @@ author: Denis (Admin)
 layout: post
 guid: http://www.fulbournwindmill.org.uk/?p=255
 permalink: /2015/08/august-working-party/
-image: /wp-content/uploads/2015/08/2015-08-Windmill-working-party-1.jpg
+image: /wp-content/uploads/2015/08/2015-08-Windmill-working-party-1-150x150.jpg
 ---
 The second set of sails is coming on well. Paul has been fitting the stays into the angled holes. Each hole is at a slightly different angle.
 <!--break-->

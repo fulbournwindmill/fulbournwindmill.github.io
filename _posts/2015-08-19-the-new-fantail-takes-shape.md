@@ -6,7 +6,7 @@ author: Denis (Admin)
 layout: post
 guid: http://www.fulbournwindmill.org.uk/?p=271
 permalink: /2015/08/the-new-fantail-takes-shape/
-image: /wp-content/uploads/2015/08/IMG_1851-1.jpg
+image: /wp-content/uploads/2015/08/IMG_1851-1-150x150.jpg
 ---
 All of the parts for the fantail are assembled on the ground so we can check that they all fit and everything&#8217;s going well.<!--break-->
 
