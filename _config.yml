@@ -10,3 +10,6 @@ twitter_username: fulbournmill
 
 # Build settings
 markdown: kramdown
+
+collections:
+- events

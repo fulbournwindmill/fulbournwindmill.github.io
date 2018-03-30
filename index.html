@@ -5,6 +5,28 @@ title: All about the windmill in Fulbourn, Cambridgeshire, UK
 
 <div class="home">
 
+  <h2 class="page-heading">Events</h2>
+
+  <ul class="event-list">
+    {% for event in site.events %}
+      <li class="event open-day">
+        <div class="event-date">
+          <div class="startdate">
+            <div class="event-weekday">{{ event.date | date: "%a" }}</div>
+            <div class="event-day">{{ event.date | date: "%d" }}</div>
+            <div class="event-month">{{ event.date | date: "%b" }}</div>
+            <div class="event-year">{{ event.date | date: "%Y" }}</div>
+          </div>
+        </div>
+        <div class="event-info single-day">
+          <div class="event-title">
+            <h3>{{ event.title }}</h3>
+          </div>
+        </div>
+      </li>
+    {% endfor %}
+  </ul>
+
   <h2 class="page-heading">News</h2>
 
   <ul class="post-list">
@@ -14,7 +36,7 @@ title: All about the windmill in Fulbourn, Cambridgeshire, UK
         <h3>
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
         </h3>
-        <div class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</div>
+        <div class="post-meta">{{ post.date | date: "%-d %b %Y" }}</div>
         <div class="post-content">
           {{ post.content | split:'<!--break-->' | first }}
           {% if post.content contains '<!--break-->' %}
