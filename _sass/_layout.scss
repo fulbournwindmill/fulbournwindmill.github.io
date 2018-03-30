@@ -212,8 +212,22 @@
         div {
             text-align: right;
         }
-    }
 
+        div.scroller-container {
+            position: absolute;
+            bottom: 40px;
+            left: 0;
+            right: 0;
+            margin: auto;
+            text-align: center;
+            span.scroller {
+                background-color: $front-page-link-color;
+                color: $heading-color;
+                padding: 10px;
+                border-radius: 20px;
+            }
+        }
+    }
 }
 
 h2.page-heading {
