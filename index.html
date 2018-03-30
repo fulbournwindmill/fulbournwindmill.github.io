@@ -37,7 +37,7 @@ title: All about the windmill in Fulbourn, Cambridgeshire, UK
         <h3>
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
         </h3>
-        <div class="post-meta">{{ post.date | date: "%-d %b %Y" }}</div>
+        <div class="post-meta">{{ post.date | date: "%-d %B %Y" }}</div>
         <div class="post-content">
           {{ post.content | split:'<!--break-->' | first }}
           {% if post.content contains '<!--break-->' %}

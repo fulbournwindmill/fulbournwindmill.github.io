@@ -2,7 +2,7 @@
 id: 409
 title: February open day and working party delayed due to weather
 date: 2018-03-01T08:28:59+00:00
-author: Denis (Admin)
+author: Denis
 layout: post
 guid: http://www.fulbournwindmill.org.uk/?p=409
 permalink: /2018/03/february-open-day-and-working-party-delayed-due-to-weather/

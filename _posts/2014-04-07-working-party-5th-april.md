@@ -2,7 +2,7 @@
 id: 125
 title: Working party 5th April
 date: 2014-04-07T08:30:31+00:00
-author: DenisH
+author: Denis
 layout: post
 guid: http://www.fulbournwindmill.org.uk/?p=125
 permalink: /2014/04/working-party-5th-april/
@@ -11,7 +11,7 @@ image: /wp-content/uploads/2014/04/Fulbourn-Mill-2014-04-056-150x150.jpg
 A lot has happened since I was last able to get over to the windmill.
 <!--break-->
 <div id="attachment_131" style="max-width: 310px" class="wp-caption alignleft">
-  <a href="http://www.fulbournwindmill.org.uk/wp-content/uploads/2014/04/Fulbourn-Mill-2014-04-051.jpg"><img class="size-medium wp-image-131" alt="The first sail temporarily attached." src="http://www.fulbournwindmill.org.uk/wp-content/uploads/2014/04/Fulbourn-Mill-2014-04-051-300x200.jpg" width="300" height="200" srcset="http://www.fulbournwindmill.org.uk/wp-content/uploads/2014/04/Fulbourn-Mill-2014-04-051-300x200.jpg 300w, http://www.fulbournwindmill.org.uk/wp-content/uploads/2014/04/Fulbourn-Mill-2014-04-051-1024x682.jpg 1024w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="/wp-content/uploads/2014/04/Fulbourn-Mill-2014-04-051.jpg"><img class="size-medium wp-image-131" alt="The first sail temporarily attached." src="/wp-content/uploads/2014/04/Fulbourn-Mill-2014-04-051-300x200.jpg" width="300" height="200" srcset="/wp-content/uploads/2014/04/Fulbourn-Mill-2014-04-051-300x200.jpg 300w, /wp-content/uploads/2014/04/Fulbourn-Mill-2014-04-051-1024x682.jpg 1024w" sizes="(max-width: 300px) 100vw, 300px" /></a>
   
   <p class="wp-caption-text">
     The first sail temporarily attached.
@@ -21,7 +21,7 @@ A lot has happened since I was last able to get over to the windmill.
 The first sail has been temporarily attached to the stocks so that the backstays can be measured and fitted out. These will have to come off again to be finished off.
 
 <div id="attachment_130" style="max-width: 310px" class="wp-caption alignright">
-  <a href="http://www.fulbournwindmill.org.uk/wp-content/uploads/2014/04/Fulbourn-Mill-2014-04-059.jpg"><img class="size-medium wp-image-130 " alt="The second sail taking shape under the new cover" src="http://www.fulbournwindmill.org.uk/wp-content/uploads/2014/04/Fulbourn-Mill-2014-04-059-300x200.jpg" width="300" height="200" srcset="http://www.fulbournwindmill.org.uk/wp-content/uploads/2014/04/Fulbourn-Mill-2014-04-059-300x200.jpg 300w, http://www.fulbournwindmill.org.uk/wp-content/uploads/2014/04/Fulbourn-Mill-2014-04-059-1024x682.jpg 1024w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="/wp-content/uploads/2014/04/Fulbourn-Mill-2014-04-059.jpg"><img class="size-medium wp-image-130 " alt="The second sail taking shape under the new cover" src="/wp-content/uploads/2014/04/Fulbourn-Mill-2014-04-059-300x200.jpg" width="300" height="200" srcset="/wp-content/uploads/2014/04/Fulbourn-Mill-2014-04-059-300x200.jpg 300w, /wp-content/uploads/2014/04/Fulbourn-Mill-2014-04-059-1024x682.jpg 1024w" sizes="(max-width: 300px) 100vw, 300px" /></a>
   
   <p class="wp-caption-text">
     The second sail taking shape under the new cover
@@ -43,7 +43,7 @@ If you&#8217;d like to help out, or learn more, then please do [contact us](http
 <div id='gallery-3' class='gallery galleryid-125 gallery-columns-4 gallery-size-thumbnail'>
   <dl class='gallery-item'>
     <dt class='gallery-icon landscape'>
-      <a href='http://www.fulbournwindmill.org.uk/2014/04/working-party-5th-april/fulbourn-mill-2014-04-052/'><img width="150" height="150" src="http://www.fulbournwindmill.org.uk/wp-content/uploads/2014/04/Fulbourn-Mill-2014-04-052-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" aria-describedby="gallery-3-132" /></a>
+      <a href='/wp-content/uploads/2014/04/Fulbourn-Mill-2014-04-052.jpg'><img width="150" height="150" src="/wp-content/uploads/2014/04/Fulbourn-Mill-2014-04-052-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" aria-describedby="gallery-3-132" /></a>
     </dt>
     
     <dd class='wp-caption-text gallery-caption' id='gallery-3-132'>
@@ -53,7 +53,7 @@ If you&#8217;d like to help out, or learn more, then please do [contact us](http
   
   <dl class='gallery-item'>
     <dt class='gallery-icon landscape'>
-      <a href='http://www.fulbournwindmill.org.uk/2014/04/working-party-5th-april/fulbourn-mill-2014-04-051/'><img width="150" height="150" src="http://www.fulbournwindmill.org.uk/wp-content/uploads/2014/04/Fulbourn-Mill-2014-04-051-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" aria-describedby="gallery-3-131" /></a>
+      <a href='/wp-content/uploads/2014/04/Fulbourn-Mill-2014-04-051.jpg'><img width="150" height="150" src="/wp-content/uploads/2014/04/Fulbourn-Mill-2014-04-051-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" aria-describedby="gallery-3-131" /></a>
     </dt>
     
     <dd class='wp-caption-text gallery-caption' id='gallery-3-131'>
@@ -63,7 +63,7 @@ If you&#8217;d like to help out, or learn more, then please do [contact us](http
   
   <dl class='gallery-item'>
     <dt class='gallery-icon landscape'>
-      <a href='http://www.fulbournwindmill.org.uk/2014/04/working-party-5th-april/fulbourn-mill-2014-04-059/'><img width="150" height="150" src="http://www.fulbournwindmill.org.uk/wp-content/uploads/2014/04/Fulbourn-Mill-2014-04-059-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" aria-describedby="gallery-3-130" /></a>
+      <a href='/wp-content/uploads/2014/04/Fulbourn-Mill-2014-04-059.jpg'><img width="150" height="150" src="/wp-content/uploads/2014/04/Fulbourn-Mill-2014-04-059-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" aria-describedby="gallery-3-130" /></a>
     </dt>
     
     <dd class='wp-caption-text gallery-caption' id='gallery-3-130'>
@@ -73,7 +73,7 @@ If you&#8217;d like to help out, or learn more, then please do [contact us](http
   
   <dl class='gallery-item'>
     <dt class='gallery-icon landscape'>
-      <a href='http://www.fulbournwindmill.org.uk/fulbourn-mill-2014-04-056/'><img width="150" height="150" src="http://www.fulbournwindmill.org.uk/wp-content/uploads/2014/04/Fulbourn-Mill-2014-04-056-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" aria-describedby="gallery-3-127" /></a>
+      <a href='/wp-content/uploads/2014/04/Fulbourn-Mill-2014-04-056.jpg'><img width="150" height="150" src="/wp-content/uploads/2014/04/Fulbourn-Mill-2014-04-056-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" aria-describedby="gallery-3-127" /></a>
     </dt>
     
     <dd class='wp-caption-text gallery-caption' id='gallery-3-127'>
@@ -85,7 +85,7 @@ If you&#8217;d like to help out, or learn more, then please do [contact us](http
   
   <dl class='gallery-item'>
     <dt class='gallery-icon landscape'>
-      <a href='http://www.fulbournwindmill.org.uk/2014/04/working-party-5th-april/fulbourn-mill-2014-04-055/'><img width="150" height="150" src="http://www.fulbournwindmill.org.uk/wp-content/uploads/2014/04/Fulbourn-Mill-2014-04-055-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" aria-describedby="gallery-3-135" /></a>
+      <a href='/wp-content/uploads/2014/04/Fulbourn-Mill-2014-04-055.jpg'><img width="150" height="150" src="/wp-content/uploads/2014/04/Fulbourn-Mill-2014-04-055-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" aria-describedby="gallery-3-135" /></a>
     </dt>
     
     <dd class='wp-caption-text gallery-caption' id='gallery-3-135'>
@@ -95,7 +95,7 @@ If you&#8217;d like to help out, or learn more, then please do [contact us](http
   
   <dl class='gallery-item'>
     <dt class='gallery-icon portrait'>
-      <a href='http://www.fulbournwindmill.org.uk/2014/04/working-party-5th-april/fulbourn-mill-2014-04-054/'><img width="150" height="150" src="http://www.fulbournwindmill.org.uk/wp-content/uploads/2014/04/Fulbourn-Mill-2014-04-054-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" aria-describedby="gallery-3-134" /></a>
+      <a href='/wp-content/uploads/2014/04/Fulbourn-Mill-2014-04-054.jpg'><img width="150" height="150" src="/wp-content/uploads/2014/04/Fulbourn-Mill-2014-04-054-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" aria-describedby="gallery-3-134" /></a>
     </dt>
     
     <dd class='wp-caption-text gallery-caption' id='gallery-3-134'>
@@ -105,7 +105,7 @@ If you&#8217;d like to help out, or learn more, then please do [contact us](http
   
   <dl class='gallery-item'>
     <dt class='gallery-icon portrait'>
-      <a href='http://www.fulbournwindmill.org.uk/2014/04/working-party-5th-april/fulbourn-mill-2014-04-058/'><img width="150" height="150" src="http://www.fulbournwindmill.org.uk/wp-content/uploads/2014/04/Fulbourn-Mill-2014-04-058-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" aria-describedby="gallery-3-129" /></a>
+      <a href='/wp-content/uploads/2014/04/Fulbourn-Mill-2014-04-058.jpg'><img width="150" height="150" src="/wp-content/uploads/2014/04/Fulbourn-Mill-2014-04-058-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" aria-describedby="gallery-3-129" /></a>
     </dt>
     
     <dd class='wp-caption-text gallery-caption' id='gallery-3-129'>
@@ -115,7 +115,7 @@ If you&#8217;d like to help out, or learn more, then please do [contact us](http
   
   <dl class='gallery-item'>
     <dt class='gallery-icon landscape'>
-      <a href='http://www.fulbournwindmill.org.uk/2014/04/working-party-5th-april/fulbourn-mill-2014-04-057/'><img width="150" height="150" src="http://www.fulbournwindmill.org.uk/wp-content/uploads/2014/04/Fulbourn-Mill-2014-04-057-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" aria-describedby="gallery-3-128" /></a>
+      <a href='/wp-content/uploads/2014/04/Fulbourn-Mill-2014-04-057.jpg'><img width="150" height="150" src="/wp-content/uploads/2014/04/Fulbourn-Mill-2014-04-057-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" aria-describedby="gallery-3-128" /></a>
     </dt>
     
     <dd class='wp-caption-text gallery-caption' id='gallery-3-128'>

@@ -2,7 +2,7 @@
 id: 352
 title: Sails turned by the wind!
 date: 2016-09-26T21:08:55+00:00
-author: Denis (Admin)
+author: Denis
 layout: post
 guid: http://www.fulbournwindmill.org.uk/?p=352
 permalink: /2016/09/sails-turned-by-the-wind/

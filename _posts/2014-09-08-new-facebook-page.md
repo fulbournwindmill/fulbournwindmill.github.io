@@ -2,7 +2,7 @@
 id: 158
 title: New Facebook Page
 date: 2014-09-08T21:09:10+00:00
-author: Denis (Admin)
+author: Denis
 layout: post
 guid: http://www.fulbournwindmill.org.uk/?p=158
 permalink: /2014/09/new-facebook-page/

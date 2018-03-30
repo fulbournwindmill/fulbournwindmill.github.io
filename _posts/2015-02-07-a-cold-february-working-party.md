@@ -2,7 +2,7 @@
 id: 182
 title: A cold February working party
 date: 2015-02-07T16:48:42+00:00
-author: Denis (Admin)
+author: Denis
 layout: post
 guid: http://www.fulbournwindmill.org.uk/?p=182
 permalink: /2015/02/a-cold-february-working-party/
@@ -15,7 +15,7 @@ The fan blades are all made up and oiled and just need painting. The second set 
 <div id='gallery-5' class='gallery galleryid-182 gallery-columns-3 gallery-size-thumbnail'>
   <dl class='gallery-item'>
     <dt class='gallery-icon portrait'>
-      <a href='http://www.fulbournwindmill.org.uk/2015/02/a-cold-february-working-party/windmill-february-2015-01/'><img width="150" height="150" src="http://www.fulbournwindmill.org.uk/wp-content/uploads/2015/02/Windmill-February-2015-01-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" aria-describedby="gallery-5-188" /></a>
+      <a href='/wp-content/uploads/2015/02/Windmill-February-2015-01.jpg'><img width="150" height="150" src="/wp-content/uploads/2015/02/Windmill-February-2015-01-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" aria-describedby="gallery-5-188" /></a>
     </dt>
     
     <dd class='wp-caption-text gallery-caption' id='gallery-5-188'>
@@ -25,7 +25,7 @@ The fan blades are all made up and oiled and just need painting. The second set 
   
   <dl class='gallery-item'>
     <dt class='gallery-icon portrait'>
-      <a href='http://www.fulbournwindmill.org.uk/2015/02/a-cold-february-working-party/windmill-february-2015-07/'><img width="150" height="150" src="http://www.fulbournwindmill.org.uk/wp-content/uploads/2015/02/Windmill-February-2015-07-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" aria-describedby="gallery-5-185" /></a>
+      <a href='/wp-content/uploads/2015/02/Windmill-February-2015-07.jpg'><img width="150" height="150" src="/wp-content/uploads/2015/02/Windmill-February-2015-07-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" aria-describedby="gallery-5-185" /></a>
     </dt>
     
     <dd class='wp-caption-text gallery-caption' id='gallery-5-185'>
@@ -35,7 +35,7 @@ The fan blades are all made up and oiled and just need painting. The second set 
   
   <dl class='gallery-item'>
     <dt class='gallery-icon landscape'>
-      <a href='http://www.fulbournwindmill.org.uk/2015/02/a-cold-february-working-party/windmill-february-2015-02/'><img width="150" height="150" src="http://www.fulbournwindmill.org.uk/wp-content/uploads/2015/02/Windmill-February-2015-02-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" aria-describedby="gallery-5-189" /></a>
+      <a href='/wp-content/uploads/2015/02/Windmill-February-2015-02.jpg'><img width="150" height="150" src="/wp-content/uploads/2015/02/Windmill-February-2015-02-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" aria-describedby="gallery-5-189" /></a>
     </dt>
     
     <dd class='wp-caption-text gallery-caption' id='gallery-5-189'>
@@ -47,7 +47,7 @@ The fan blades are all made up and oiled and just need painting. The second set 
   
   <dl class='gallery-item'>
     <dt class='gallery-icon landscape'>
-      <a href='http://www.fulbournwindmill.org.uk/2015/02/a-cold-february-working-party/windmill-february-2015-08/'><img width="150" height="150" src="http://www.fulbournwindmill.org.uk/wp-content/uploads/2015/02/Windmill-February-2015-08-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" aria-describedby="gallery-5-186" /></a>
+      <a href='/wp-content/uploads/2015/02/Windmill-February-2015-08.jpg'><img width="150" height="150" src="/wp-content/uploads/2015/02/Windmill-February-2015-08-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" aria-describedby="gallery-5-186" /></a>
     </dt>
     
     <dd class='wp-caption-text gallery-caption' id='gallery-5-186'>
@@ -57,7 +57,7 @@ The fan blades are all made up and oiled and just need painting. The second set 
   
   <dl class='gallery-item'>
     <dt class='gallery-icon portrait'>
-      <a href='http://www.fulbournwindmill.org.uk/2015/02/a-cold-february-working-party/windmill-february-2015-04/'><img width="150" height="150" src="http://www.fulbournwindmill.org.uk/wp-content/uploads/2015/02/Windmill-February-2015-04-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" aria-describedby="gallery-5-190" /></a>
+      <a href='/wp-content/uploads/2015/02/Windmill-February-2015-04.jpg'><img width="150" height="150" src="/wp-content/uploads/2015/02/Windmill-February-2015-04-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" aria-describedby="gallery-5-190" /></a>
     </dt>
     
     <dd class='wp-caption-text gallery-caption' id='gallery-5-190'>
@@ -67,7 +67,7 @@ The fan blades are all made up and oiled and just need painting. The second set 
   
   <dl class='gallery-item'>
     <dt class='gallery-icon portrait'>
-      <a href='http://www.fulbournwindmill.org.uk/2015/02/a-cold-february-working-party/windmill-february-2015-05/'><img width="150" height="150" src="http://www.fulbournwindmill.org.uk/wp-content/uploads/2015/02/Windmill-February-2015-05-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" aria-describedby="gallery-5-183" /></a>
+      <a href='/wp-content/uploads/2015/02/Windmill-February-2015-05.jpg'><img width="150" height="150" src="/wp-content/uploads/2015/02/Windmill-February-2015-05-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" aria-describedby="gallery-5-183" /></a>
     </dt>
     
     <dd class='wp-caption-text gallery-caption' id='gallery-5-183'>
@@ -79,7 +79,7 @@ The fan blades are all made up and oiled and just need painting. The second set 
   
   <dl class='gallery-item'>
     <dt class='gallery-icon portrait'>
-      <a href='http://www.fulbournwindmill.org.uk/2015/02/a-cold-february-working-party/windmill-february-2015-06/'><img width="150" height="150" src="http://www.fulbournwindmill.org.uk/wp-content/uploads/2015/02/Windmill-February-2015-06-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" aria-describedby="gallery-5-184" /></a>
+      <a href='/wp-content/uploads/2015/02/Windmill-February-2015-06.jpg/'><img width="150" height="150" src="/wp-content/uploads/2015/02/Windmill-February-2015-06-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" aria-describedby="gallery-5-184" /></a>
     </dt>
     
     <dd class='wp-caption-text gallery-caption' id='gallery-5-184'>
@@ -89,7 +89,7 @@ The fan blades are all made up and oiled and just need painting. The second set 
   
   <dl class='gallery-item'>
     <dt class='gallery-icon portrait'>
-      <a href='http://www.fulbournwindmill.org.uk/2015/02/a-cold-february-working-party/windmill-february-2015-15/'><img width="150" height="150" src="http://www.fulbournwindmill.org.uk/wp-content/uploads/2015/02/Windmill-February-2015-15-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" aria-describedby="gallery-5-187" /></a>
+      <a href='/wp-content/uploads/2015/02/Windmill-February-2015-15.jpg'><img width="150" height="150" src="/wp-content/uploads/2015/02/Windmill-February-2015-15-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" aria-describedby="gallery-5-187" /></a>
     </dt>
     
     <dd class='wp-caption-text gallery-caption' id='gallery-5-187'>

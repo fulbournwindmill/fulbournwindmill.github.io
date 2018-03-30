@@ -2,7 +2,7 @@
 id: 142
 title: June Working Party
 date: 2014-06-07T19:36:11+00:00
-author: Denis (Admin)
+author: Denis
 layout: post
 guid: http://www.fulbournwindmill.org.uk/?p=142
 permalink: /2014/06/june-working-party/
@@ -13,7 +13,7 @@ At one point, with thunder, lightning and heavy rain, we thought we wouldn&#8217
 <div id='gallery-4' class='gallery galleryid-142 gallery-columns-3 gallery-size-thumbnail'>
   <dl class='gallery-item'>
     <dt class='gallery-icon portrait'>
-      <a href='http://www.fulbournwindmill.org.uk/2014/06/june-working-party/working-party-2014-06-0709/'><img width="150" height="150" src="http://www.fulbournwindmill.org.uk/wp-content/uploads/2014/06/Working-Party-2014-06-0709-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" aria-describedby="gallery-4-145" /></a>
+      <a href='/wp-content/uploads/2014/06/Working-Party-2014-06-0709.jpg'><img width="150" height="150" src="/wp-content/uploads/2014/06/Working-Party-2014-06-0709-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" aria-describedby="gallery-4-145" /></a>
     </dt>
     
     <dd class='wp-caption-text gallery-caption' id='gallery-4-145'>
@@ -23,7 +23,7 @@ At one point, with thunder, lightning and heavy rain, we thought we wouldn&#8217
   
   <dl class='gallery-item'>
     <dt class='gallery-icon landscape'>
-      <a href='http://www.fulbournwindmill.org.uk/2014/06/june-working-party/working-party-2014-06-0710/'><img width="150" height="150" src="http://www.fulbournwindmill.org.uk/wp-content/uploads/2014/06/Working-Party-2014-06-0710-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" aria-describedby="gallery-4-146" /></a>
+      <a href='/wp-content/uploads/2014/06/Working-Party-2014-06-0710.jpg'><img width="150" height="150" src="/wp-content/uploads/2014/06/Working-Party-2014-06-0710-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" aria-describedby="gallery-4-146" /></a>
     </dt>
     
     <dd class='wp-caption-text gallery-caption' id='gallery-4-146'>
@@ -33,7 +33,7 @@ At one point, with thunder, lightning and heavy rain, we thought we wouldn&#8217
   
   <dl class='gallery-item'>
     <dt class='gallery-icon landscape'>
-      <a href='http://www.fulbournwindmill.org.uk/2014/06/june-working-party/working-party-2014-06-0701/'><img width="150" height="150" src="http://www.fulbournwindmill.org.uk/wp-content/uploads/2014/06/Working-Party-2014-06-0701-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" aria-describedby="gallery-4-155" /></a>
+      <a href='/wp-content/uploads/2014/06/Working-Party-2014-06-0701.jpg'><img width="150" height="150" src="/wp-content/uploads/2014/06/Working-Party-2014-06-0701-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" aria-describedby="gallery-4-155" /></a>
     </dt>
     
     <dd class='wp-caption-text gallery-caption' id='gallery-4-155'>
@@ -45,7 +45,7 @@ At one point, with thunder, lightning and heavy rain, we thought we wouldn&#8217
   
   <dl class='gallery-item'>
     <dt class='gallery-icon landscape'>
-      <a href='http://www.fulbournwindmill.org.uk/2014/06/june-working-party/working-party-2014-06-0703/'><img width="150" height="150" src="http://www.fulbournwindmill.org.uk/wp-content/uploads/2014/06/Working-Party-2014-06-0703-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" aria-describedby="gallery-4-150" /></a>
+      <a href='/wp-content/uploads/2014/06/Working-Party-2014-06-0703.jpg'><img width="150" height="150" src="/wp-content/uploads/2014/06/Working-Party-2014-06-0703-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" aria-describedby="gallery-4-150" /></a>
     </dt>
     
     <dd class='wp-caption-text gallery-caption' id='gallery-4-150'>
@@ -55,7 +55,7 @@ At one point, with thunder, lightning and heavy rain, we thought we wouldn&#8217
   
   <dl class='gallery-item'>
     <dt class='gallery-icon landscape'>
-      <a href='http://www.fulbournwindmill.org.uk/2014/06/june-working-party/working-party-2014-06-0702/'><img width="150" height="150" src="http://www.fulbournwindmill.org.uk/wp-content/uploads/2014/06/Working-Party-2014-06-0702-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" aria-describedby="gallery-4-149" /></a>
+      <a href='/wp-content/uploads/2014/06/Working-Party-2014-06-0702.jpg'><img width="150" height="150" src="/wp-content/uploads/2014/06/Working-Party-2014-06-0702-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" aria-describedby="gallery-4-149" /></a>
     </dt>
     
     <dd class='wp-caption-text gallery-caption' id='gallery-4-149'>
@@ -65,7 +65,7 @@ At one point, with thunder, lightning and heavy rain, we thought we wouldn&#8217
   
   <dl class='gallery-item'>
     <dt class='gallery-icon landscape'>
-      <a href='http://www.fulbournwindmill.org.uk/2014/06/june-working-party/working-party-2014-06-0705/'><img width="150" height="150" src="http://www.fulbournwindmill.org.uk/wp-content/uploads/2014/06/Working-Party-2014-06-0705-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" aria-describedby="gallery-4-152" /></a>
+      <a href='/wp-content/uploads/2014/06/Working-Party-2014-06-0705.jpg'><img width="150" height="150" src="/wp-content/uploads/2014/06/Working-Party-2014-06-0705-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" aria-describedby="gallery-4-152" /></a>
     </dt>
     
     <dd class='wp-caption-text gallery-caption' id='gallery-4-152'>
@@ -77,7 +77,7 @@ At one point, with thunder, lightning and heavy rain, we thought we wouldn&#8217
   
   <dl class='gallery-item'>
     <dt class='gallery-icon portrait'>
-      <a href='http://www.fulbournwindmill.org.uk/2014/06/june-working-party/working-party-2014-06-0707/'><img width="150" height="150" src="http://www.fulbournwindmill.org.uk/wp-content/uploads/2014/06/Working-Party-2014-06-0707-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" aria-describedby="gallery-4-154" /></a>
+      <a href='/wp-content/uploads/2014/06/Working-Party-2014-06-0707.jpg'><img width="150" height="150" src="/wp-content/uploads/2014/06/Working-Party-2014-06-0707-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" aria-describedby="gallery-4-154" /></a>
     </dt>
     
     <dd class='wp-caption-text gallery-caption' id='gallery-4-154'>
@@ -87,7 +87,7 @@ At one point, with thunder, lightning and heavy rain, we thought we wouldn&#8217
   
   <dl class='gallery-item'>
     <dt class='gallery-icon landscape'>
-      <a href='http://www.fulbournwindmill.org.uk/2014/06/june-working-party/working-party-2014-06-0711/'><img width="150" height="150" src="http://www.fulbournwindmill.org.uk/wp-content/uploads/2014/06/Working-Party-2014-06-0711-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" aria-describedby="gallery-4-147" /></a>
+      <a href='/wp-content/uploads/2014/06/Working-Party-2014-06-0711.jpg'><img width="150" height="150" src="/wp-content/uploads/2014/06/Working-Party-2014-06-0711-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" aria-describedby="gallery-4-147" /></a>
     </dt>
     
     <dd class='wp-caption-text gallery-caption' id='gallery-4-147'>
@@ -97,7 +97,7 @@ At one point, with thunder, lightning and heavy rain, we thought we wouldn&#8217
   
   <dl class='gallery-item'>
     <dt class='gallery-icon portrait'>
-      <a href='http://www.fulbournwindmill.org.uk/2014/06/june-working-party/working-party-2014-06-0706/'><img width="150" height="150" src="http://www.fulbournwindmill.org.uk/wp-content/uploads/2014/06/Working-Party-2014-06-0706-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" aria-describedby="gallery-4-153" /></a>
+      <a href='/wp-content/uploads/2014/06/Working-Party-2014-06-0706.jpg'><img width="150" height="150" src="/wp-content/uploads/2014/06/Working-Party-2014-06-0706-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" aria-describedby="gallery-4-153" /></a>
     </dt>
     
     <dd class='wp-caption-text gallery-caption' id='gallery-4-153'>
@@ -109,7 +109,7 @@ At one point, with thunder, lightning and heavy rain, we thought we wouldn&#8217
   
   <dl class='gallery-item'>
     <dt class='gallery-icon portrait'>
-      <a href='http://www.fulbournwindmill.org.uk/2014/06/june-working-party/working-party-2014-06-0708/'><img width="150" height="150" src="http://www.fulbournwindmill.org.uk/wp-content/uploads/2014/06/Working-Party-2014-06-0708-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" aria-describedby="gallery-4-144" /></a>
+      <a href='/wp-content/uploads/2014/06/Working-Party-2014-06-0708.jpg'><img width="150" height="150" src="/wp-content/uploads/2014/06/Working-Party-2014-06-0708-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" aria-describedby="gallery-4-144" /></a>
     </dt>
     
     <dd class='wp-caption-text gallery-caption' id='gallery-4-144'>
@@ -119,7 +119,7 @@ At one point, with thunder, lightning and heavy rain, we thought we wouldn&#8217
   
   <dl class='gallery-item'>
     <dt class='gallery-icon landscape'>
-      <a href='http://www.fulbournwindmill.org.uk/2014/06/june-working-party/working-party-2014-06-0712/'><img width="150" height="150" src="http://www.fulbournwindmill.org.uk/wp-content/uploads/2014/06/Working-Party-2014-06-0712-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" aria-describedby="gallery-4-148" /></a>
+      <a href='/wp-content/uploads/2014/06/Working-Party-2014-06-0712.jpg'><img width="150" height="150" src="/wp-content/uploads/2014/06/Working-Party-2014-06-0712-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" aria-describedby="gallery-4-148" /></a>
     </dt>
     
     <dd class='wp-caption-text gallery-caption' id='gallery-4-148'>
@@ -129,7 +129,7 @@ At one point, with thunder, lightning and heavy rain, we thought we wouldn&#8217
   
   <dl class='gallery-item'>
     <dt class='gallery-icon landscape'>
-      <a href='http://www.fulbournwindmill.org.uk/2014/06/june-working-party/working-party-2014-06-0713/'><img width="150" height="150" src="http://www.fulbournwindmill.org.uk/wp-content/uploads/2014/06/Working-Party-2014-06-0713-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" aria-describedby="gallery-4-143" /></a>
+      <a href='/wp-content/uploads/2014/06/Working-Party-2014-06-0713.jpg'><img width="150" height="150" src="/wp-content/uploads/2014/06/Working-Party-2014-06-0713-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" aria-describedby="gallery-4-143" /></a>
     </dt>
     
     <dd class='wp-caption-text gallery-caption' id='gallery-4-143'>

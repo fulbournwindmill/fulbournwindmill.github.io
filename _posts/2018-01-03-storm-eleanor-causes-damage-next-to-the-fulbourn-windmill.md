@@ -2,7 +2,7 @@
 id: 366
 title: Storm Eleanor causes damage next to the Fulbourn Windmill
 date: 2018-01-03T12:40:11+00:00
-author: Denis (Admin)
+author: Denis
 layout: post
 guid: http://www.fulbournwindmill.org.uk/?p=366
 permalink: /2018/01/storm-eleanor-causes-damage-next-to-the-fulbourn-windmill/

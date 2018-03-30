@@ -2,7 +2,7 @@
 id: 344
 title: The sails are up and the fan tail is complete!
 date: 2016-07-13T20:30:21+00:00
-author: Denis (Admin)
+author: Denis
 layout: post
 guid: http://www.fulbournwindmill.org.uk/?p=344
 permalink: /2016/07/the-sails-are-up-and-the-fan-tail-is-complete/
@@ -17,11 +17,11 @@ image: /wp-content/uploads/2016/07/IMG_2792-150x150.jpg
 </p>
 
 <p class="p1">
-  <img class="alignnone wp-image-348 size-large" src="http://www.fulbournwindmill.org.uk/wp-content/uploads/2016/07/IMG_2756-e1468441590670-683x1024.jpg" alt="IMG_2756" width="683" height="1024" srcset="http://www.fulbournwindmill.org.uk/wp-content/uploads/2016/07/IMG_2756-e1468441590670-683x1024.jpg 683w, http://www.fulbournwindmill.org.uk/wp-content/uploads/2016/07/IMG_2756-e1468441590670-200x300.jpg 200w, http://www.fulbournwindmill.org.uk/wp-content/uploads/2016/07/IMG_2756-e1468441590670-768x1152.jpg 768w" sizes="(max-width: 683px) 100vw, 683px" />
+  <img class="alignnone wp-image-348 size-large" src="/wp-content/uploads/2016/07/IMG_2756-e1468441590670-683x1024.jpg" alt="IMG_2756" width="683" height="1024" srcset="/wp-content/uploads/2016/07/IMG_2756-e1468441590670-683x1024.jpg 683w, /wp-content/uploads/2016/07/IMG_2756-e1468441590670-200x300.jpg 200w, /wp-content/uploads/2016/07/IMG_2756-e1468441590670-768x1152.jpg 768w" sizes="(max-width: 683px) 100vw, 683px" />
 </p>
 
-<img class="alignnone wp-image-347 size-large" src="http://www.fulbournwindmill.org.uk/wp-content/uploads/2016/07/IMG_2763-e1468441610197-683x1024.jpg" alt="IMG_2763" width="683" height="1024" srcset="http://www.fulbournwindmill.org.uk/wp-content/uploads/2016/07/IMG_2763-e1468441610197-683x1024.jpg 683w, http://www.fulbournwindmill.org.uk/wp-content/uploads/2016/07/IMG_2763-e1468441610197-200x300.jpg 200w, http://www.fulbournwindmill.org.uk/wp-content/uploads/2016/07/IMG_2763-e1468441610197-768x1152.jpg 768w" sizes="(max-width: 683px) 100vw, 683px" />
+<img class="alignnone wp-image-347 size-large" src="/wp-content/uploads/2016/07/IMG_2763-e1468441610197-683x1024.jpg" alt="IMG_2763" width="683" height="1024" srcset="/wp-content/uploads/2016/07/IMG_2763-e1468441610197-683x1024.jpg 683w, /wp-content/uploads/2016/07/IMG_2763-e1468441610197-200x300.jpg 200w, /wp-content/uploads/2016/07/IMG_2763-e1468441610197-768x1152.jpg 768w" sizes="(max-width: 683px) 100vw, 683px" />
 
-<img class="alignnone wp-image-345 size-large" src="http://www.fulbournwindmill.org.uk/wp-content/uploads/2016/07/IMG_2790-e1468441495912-683x1024.jpg" alt="IMG_2790" width="683" height="1024" srcset="http://www.fulbournwindmill.org.uk/wp-content/uploads/2016/07/IMG_2790-e1468441495912-683x1024.jpg 683w, http://www.fulbournwindmill.org.uk/wp-content/uploads/2016/07/IMG_2790-e1468441495912-200x300.jpg 200w, http://www.fulbournwindmill.org.uk/wp-content/uploads/2016/07/IMG_2790-e1468441495912-768x1152.jpg 768w" sizes="(max-width: 683px) 100vw, 683px" />
+<img class="alignnone wp-image-345 size-large" src="/wp-content/uploads/2016/07/IMG_2790-e1468441495912-683x1024.jpg" alt="IMG_2790" width="683" height="1024" srcset="/wp-content/uploads/2016/07/IMG_2790-e1468441495912-683x1024.jpg 683w, /wp-content/uploads/2016/07/IMG_2790-e1468441495912-200x300.jpg 200w, /wp-content/uploads/2016/07/IMG_2790-e1468441495912-768x1152.jpg 768w" sizes="(max-width: 683px) 100vw, 683px" />
 
-<img class="alignnone wp-image-346 size-large" src="http://www.fulbournwindmill.org.uk/wp-content/uploads/2016/07/IMG_2792-1024x683.jpg" alt="IMG_2792" width="1024" height="683" srcset="http://www.fulbournwindmill.org.uk/wp-content/uploads/2016/07/IMG_2792-1024x683.jpg 1024w, http://www.fulbournwindmill.org.uk/wp-content/uploads/2016/07/IMG_2792-300x200.jpg 300w, http://www.fulbournwindmill.org.uk/wp-content/uploads/2016/07/IMG_2792-768x512.jpg 768w" sizes="(max-width: 1024px) 100vw, 1024px" />
+<img class="alignnone wp-image-346 size-large" src="/wp-content/uploads/2016/07/IMG_2792-1024x683.jpg" alt="IMG_2792" width="1024" height="683" srcset="/wp-content/uploads/2016/07/IMG_2792-1024x683.jpg 1024w, /wp-content/uploads/2016/07/IMG_2792-300x200.jpg 300w, /wp-content/uploads/2016/07/IMG_2792-768x512.jpg 768w" sizes="(max-width: 1024px) 100vw, 1024px" />

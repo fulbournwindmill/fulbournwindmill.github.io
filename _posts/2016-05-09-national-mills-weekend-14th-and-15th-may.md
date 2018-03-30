@@ -2,7 +2,7 @@
 id: 339
 title: 'National Mills Weekend: 14th and 15th May'
 date: 2016-05-09T21:04:49+00:00
-author: Denis (Admin)
+author: Denis
 layout: post
 guid: http://www.fulbournwindmill.org.uk/?p=339
 permalink: /2016/05/national-mills-weekend-14th-and-15th-may/

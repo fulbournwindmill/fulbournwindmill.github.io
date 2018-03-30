@@ -2,7 +2,7 @@
 id: 334
 title: No open day Saturday 6th March
 date: 2016-03-04T17:29:59+00:00
-author: Denis (Admin)
+author: Denis
 layout: post
 guid: http://www.fulbournwindmill.org.uk/?p=334
 permalink: /2016/03/no-open-day-saturday-6th-march/

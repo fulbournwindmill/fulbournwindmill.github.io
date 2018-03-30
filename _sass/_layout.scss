@@ -25,7 +25,6 @@
 }
 
 .site-nav {
-    float: right;
     line-height: 56px;
 
     .menu-icon {
@@ -189,10 +188,15 @@
         padding-right: $spacing-unit;
         padding-left: $spacing-unit;
 
-        .site-nav .page-link {
-            color: $front-page-link-color;
-            @include media-query($on-palm) {
-                color: $heading-color;
+        .site-nav {
+            float: right;
+
+            .page-link {
+                color: $front-page-link-color;
+
+                @include media-query($on-palm) {
+                    color: $heading-color;
+                }
             }
         }
 
@@ -422,4 +426,54 @@ li.event {
     a {
         color: $grey-color;
     }
+}
+
+img .size-medium, .size-large, .size-full {
+    object-fit: cover;
+}
+
+img.alignleft {
+    float: left;
+    margin-right: 20px;
+}
+
+img.alignright {
+    float: right;
+    margin-left: 20px;
+}
+
+.gallery {
+    clear: both;
+
+    dt {
+        clear: both;
+
+        img {
+            float: left;
+            margin-right: 20px;
+            margin-bottom: 20px;
+            object-fit: cover;
+        }
+    }
+}
+
+.video-container {
+    position: relative;
+    width: 100%;
+    height: 0;
+    padding-bottom: 56.25%;
+    clear: both;
+
+    .video {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+    }
+}
+
+.wp-caption-text {
+    font-size: $small-font-size;
+    color: $grey-color;
 }
