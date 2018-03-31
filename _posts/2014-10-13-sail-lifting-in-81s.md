@@ -10,6 +10,7 @@ image: /wp-content/uploads/2014/10/YouTubeSailLifting.png
 ---
 [Alex Farquhar](https://www.facebook.com/AlexfarquharFilmproductions/) has taken the photos from the sail lifting on 30th Sept 2014 and turned a long and hard 11 hours or so into a 1 minute 21 second video! 
 <!--break-->
+
 <div class="video-container">
 <iframe class="video" src="http://www.youtube.com/embed/ha3vh9YffxA?feature=oembed" frameborder="0" allowfullscreen=""></iframe>
 </div>
