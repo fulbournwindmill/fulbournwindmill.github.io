@@ -12,5 +12,5 @@ image: /wp-content/uploads/2014/10/YouTubeSailLifting.png
 <!--break-->
 
 <div class="video-container">
-<iframe class="video" src="http://www.youtube.com/embed/ha3vh9YffxA?feature=oembed" frameborder="0" allowfullscreen=""></iframe>
+<iframe class="video" src="https://www.youtube.com/embed/ha3vh9YffxA?feature=oembed" frameborder="0" allowfullscreen=""></iframe>
 </div>
