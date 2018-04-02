@@ -9,7 +9,7 @@ permalink: /2015/10/fanstage-setback/
 image: /wp-content/uploads/2015/10/2015-10-03-10.35.39-21-150x150.jpg
 ---
 
-This month we were lucky enough to have three new volunteers: Tony, Richard and Neil. Thanks so much guys for coming along and helping! We all enjoyed being side-tracked by Tony&#8217;s new guide dog puppy. (If you fancy helping, [just let us know](http://www.fulbournwindmill.org.uk/volunteers/).)
+This month we were lucky enough to have three new volunteers: Tony, Richard and Neil. Thanks so much guys for coming along and helping! We all enjoyed being side-tracked by Tony&#8217;s new guide dog puppy. (If you fancy helping, [just let us know](http://www.fulbournwindmill.org.uk/volunteers).)
 <!--break-->
 <div id="attachment_299" style="max-width: 310px" class="wp-caption alignleft">
   <a href="/wp-content/uploads/2015/10/2015-10-03-10.01.57.jpg"><img class="size-medium wp-image-299" src="/wp-content/uploads/2015/10/2015-10-03-10.01.57-300x200.jpg" alt="Welcome to our new volunteers" width="300" height="200" srcset="/wp-content/uploads/2015/10/2015-10-03-10.01.57-300x200.jpg 300w, /wp-content/uploads/2015/10/2015-10-03-10.01.57-1024x683.jpg 1024w" sizes="(max-width: 300px) 100vw, 300px" /></a>

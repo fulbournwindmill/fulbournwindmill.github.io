@@ -3,23 +3,23 @@
   <div class="wrapper">
 
     <ul class="social-media-list">
-      <li><i class="far fa-envelope"></i> <a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
+      <li><i class="far fa-envelope fa-fw"></i> <a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
       {% if site.twitter_name %}
-      <li><i class="fab fa-twitter"></i>
+      <li><i class="fab fa-twitter fa-fw"></i>
         <a href="https://twitter.com/{{ site.twitter_name }}" target="_blank">
           <span class="username">{{ site.twitter_name }}</span>
         </a>
       </li>
       {% endif %}
       {% if site.facebook_name %}
-      <li><i class="fab fa-facebook-f"></i>
+      <li><i class="fab fa-facebook-f fa-fw"></i>
         <a href="https://facebook.com/{{ site.facebook_name }}" target="_blank">
           <span class="username">{{ site.facebook_name }}</span>
         </a>
       </li>
       {% endif %}
       {% if site.instagram_name %}
-      <li><i class="fab fa-instagram"></i>
+      <li><i class="fab fa-instagram fa-fw"></i>
         <a href="https://instagram.com/{{ site.instagram_name }}" target="_blank">
           <span class="username">{{ site.instagram_name }}</span>
         </a>

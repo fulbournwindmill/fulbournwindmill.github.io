@@ -113,12 +113,22 @@
 
     li {
         display: inline;
+
+        &:not(:last-child) {
+            padding-right: 10px;
+            border-right: 1px solid $grey-color-light;
+            margin-right: 10px;
+        }
     }
 
-    li:not(:last-child) {
-        padding-right: 10px;
-        border-right: 1px solid $heading-color;
-        margin-right: 10px;
+    @include media-query($on-palm) {
+        li {
+            display: list-item;
+
+            &:not(:last-child) {
+                border-right: none;
+            }
+        }
     }
 }
 
@@ -279,10 +289,10 @@ h2.page-heading {
 .post-thumbnail {
     float: left;
     margin-right: 20px;
-    margin-bottom: 20px;
+    margin-bottom: 12px;
+    margin-top: 2px;
     object-fit: cover;
 }
-
 
 /**
  * Posts
