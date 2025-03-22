@@ -4,32 +4,11 @@ title: All about the windmill in Fulbourn, Cambridgeshire, UK
 ---
 <div class="home">
 
-  <h2 class="page-heading">Events</h2>
+  <h2 style="font-size:2em">
+      This website is being updated to reflect the ongoing mill restoration project
+  </h2>
 
-  <ul class="event-list">
-    {% for event in site.events %}
-		{% if site.time < event.date %}
-	      <li class="event open-day">
-	        <div class="event-date">
-	          <div class="startdate">
-	            <div class="event-weekday">{{ event.date | date: "%a" }}</div>
-	            <div class="event-day">{{ event.date | date: "%d" }}</div>
-	            <div class="event-month">{{ event.date | date: "%b" }}</div>
-	            <div class="event-year">{{ event.date | date: "%Y" }}</div>
-	          </div>
-	        </div>
-	        <div class="event-info single-day">
-	          <div class="event-title">
-	            <h3>{{ event.title }}</h3>
-	          </div>
-	          <div class="event-content">{{ event.content }}</div>
-	        </div>
-	      </li>
-		{% endif %}
-    {% endfor %}
-  </ul>
-
-  <h2 class="page-heading">News</h2>
+  <h2 class="page-heading">Archive</h2>
 
   <ul class="post-list">
     {% for post in site.posts %}

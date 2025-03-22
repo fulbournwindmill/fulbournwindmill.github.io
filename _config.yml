@@ -5,14 +5,12 @@ description: >
   Cambridgeshire, UK
 
 baseurl: "" # the subpath of your site, e.g. /blog
-twitter_name: fulbournmill
-instagram_name: fulbournwindmill
 facebook_name: fulbournwindmill
-email: fulbournwindmill@gmail.com
+email: fulbourn.windmill.cio@gmail.com
 google_analytics_id: UA-45611487-1
 
 # Build settings
 markdown: kramdown
 
 collections:
-- events
+  - events
